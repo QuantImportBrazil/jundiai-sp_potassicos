@@ -1,13 +1,13 @@
 Influenciador,fator
-Mês: 1 - Local: SP: Milho,variação ano anterior
-Mês: 2 - Local: BA,chuvas
-Mês: 4 - Local: AP,chuvas
-Mês: 4 - Local: MS,chuvas
-"Mês: 5 - Local: MS: Soja, mesmo triturada",acumulado ano
-Mês: 7 - Local: PR,chuvas
-Mês: 1 - Local: RS,chuvas
-"Mês: 8 - Local: PR: Insecticidas, rodenticidas, fungicidas, herbicidas, ...",acumulado bimestre
-"Mês: 9 - Local: GO: Adubos  contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio  ",acumulado bimestre
-"Mês: 10 - Local: PI: Adubos  contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio  ",relação de troca
-"Mês: 11 - Local: PA: Soja, mesmo triturada",acumulado bimestre
-Mês: 12 - Local: SP: Fosfatos de cálcio naturais...,variação ano anterior
+Mês: 7 - Local: MG,chuvas
+Mês: 2 - Local: MT: Adubos  azotados,acumulado ano
+Mês: 3 - Local: BA: resíduos sólidos da extração do óleo de soja,acumulado ano
+"Mês: 4 - Local: PR: Soja, mesmo triturada",acumulado bimestre
+"Mês: 5 - Local: SP: Insecticidas, rodenticidas, fungicidas, herbicidas, ...",acumulado ano
+Mês: 6 - Local: PA: Adubos  fosfatados,variação ano anterior
+"Mês: 7 - Local: RO: Adubos  contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio  ",relação de troca
+Mês: 8 - Local: BA: Adubos  potássicos,acumulado ano
+Mês: 2 - Local: MG,chuvas
+Mês: 2 - Local: MG,chuvas
+Mês: 10 - Local: AP,chuvas
+"Mês: 12 - Local: PE: Óleos de petróleo... , em peso, 70 % ",acumulado ano
